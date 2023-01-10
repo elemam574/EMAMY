@@ -792,7 +792,7 @@ button:hover {
 }
 @media (max-width: 767px) {
   .portfolio .container .texts h1 {
-    font-size: 12px;
+    font-size: 12px !important;
   }
 }
 
