@@ -568,7 +568,7 @@
 } } } }
 @media ($max_wd_sm) {
   .portfolio { .container { .texts { h1 {
-    font-size: 12px;
+    font-size: 12px !important;
   } } } }
 }
 .portfolio { .container { .texts { marquee {
