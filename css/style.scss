@@ -566,6 +566,11 @@
     user-select: none;
     width: 100%;
 } } } }
+@media ($max_wd_sm) {
+  .portfolio { .container { .texts { h1 {
+    font-size: 12px;
+  } } } }
+}
 .portfolio { .container { .texts { marquee {
     position: absolute;
     top: -100px;
