@@ -1,0 +1,23 @@
+// transitions 
+$main_transition: 0.3s;
+
+// colors
+$main_color: #e53935;
+$second_color: #172231;
+$color_one: #f7ffc7;
+$color_with_opacity: rgba(0, 0, 0, 0.678);
+$white_color: #ffffff;
+$black_color: #000000;
+$bdr_color: rgba(255, 144, 142, 0.164);
+
+// screens
+$max_wd_vsm: "max-width: 571px";
+$min_wd_vsm: "min-width: 572px";
+$max_wd_sm: "max-width: 767px";
+$min_wd_sm: "min-width: 768px";
+$max_wd_md: "max-width: 991px";
+$min_wd_md: "min-width: 992px";
+$max_wd_lg: "max-width: 1199px";
+$min_wd_lg: "min-width: 1200px";
+$font_carter:  'Carter One', cursive;
+$font_lato: 'Lato', sans-serif;
